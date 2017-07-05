@@ -1,0 +1,25 @@
+PODS:
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SwiftyJSON (3.1.4)
+  - WBSegmentControl (0.2.3)
+
+DEPENDENCIES:
+  - Charts
+  - SDWebImage (~> 3.8)
+  - SwiftyJSON
+  - WBSegmentControl (~> 0.2.0)
+
+SPEC CHECKSUMS:
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  WBSegmentControl: c66bb255598413eea8306401d402ae67974267b2
+
+PODFILE CHECKSUM: 539958c2f492ce761436e8749f19ff2c53bd7bb8
+
+COCOAPODS: 1.2.1
